@@ -5,3 +5,5 @@ for val in numbers:
     sq = val * val
     # displaying the squares
     print(sq)
+
+# end of program
